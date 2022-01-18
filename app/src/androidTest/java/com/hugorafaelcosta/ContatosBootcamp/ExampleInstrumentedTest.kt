@@ -1,4 +1,4 @@
-package com.hugorafaelcosta.myapplication
+package com.hugorafaelcosta.ContatosBootcamp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

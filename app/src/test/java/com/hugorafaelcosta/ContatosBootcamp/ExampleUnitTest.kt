@@ -1,4 +1,4 @@
-package com.hugorafaelcosta.myapplication
+package com.hugorafaelcosta.ContatosBootcamp
 
 import org.junit.Test
 
